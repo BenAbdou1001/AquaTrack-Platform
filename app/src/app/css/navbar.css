@@ -1,0 +1,5 @@
+.navbar {    
+    height: 15vh;          
+    width: 100vw; 
+    font-family: var(--font-poppins), sans-serif;
+}

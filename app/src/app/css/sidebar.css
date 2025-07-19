@@ -1,0 +1,10 @@
+.sidebar {
+    height: 100vh;           
+    min-height: 400px;      
+    max-height: 85vh;       
+    overflow-y: auto;        
+    width: 260px;        
+    display: flex;
+    flex-direction: column;
+    transition: height 0.3s;
+}
